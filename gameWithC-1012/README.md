@@ -1,5 +1,6 @@
 # PIANO GAMES COLLECTION
 
+## 프로그램 소개
 
 ![1](https://user-images.githubusercontent.com/70316489/195382854-585f18f0-fcb7-4262-9faf-916823ae93f8.png)
 
